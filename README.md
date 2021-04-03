@@ -6,7 +6,7 @@
 - 🎓 Desarollador de aplicaciones multiplataforma.
 - 🌱 Actualmente estoy aprendiendo 
 - 💞️ I’m looking to collaborate on ...
-- 📫 Podeís contactarme con el correo: Haroljorgelopez@gmail.com
+- 📫 Cu: Haroljorgelopez@gmail.com
 
 **Mi estado actual**
 
