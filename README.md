@@ -3,7 +3,7 @@
 **Mi estado actual:**
 
 
-- 🎓 Desarollador de aplicaciones multiplataforma junior.
+- 🎓 Software Developer junior.
 - 🌱 Actualmente estoy aprendiendo Kotlin
 - 📫 Cu: Haroljorgelopez@gmail.com
 
