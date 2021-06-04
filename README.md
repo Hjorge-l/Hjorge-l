@@ -1,4 +1,4 @@
-### 👋 H3ll0 W0RLD, soy Hjorge-l
+### 👋 H3ll0 W0RLD, I'm Hjorge-l
 
 **Mi estado actual:**
 
