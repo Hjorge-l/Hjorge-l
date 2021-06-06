@@ -1,4 +1,4 @@
-### 👋 H3ll0 W0RLD, I'm Hjorge
+# 👋 H3ll0 W0RLD, I'm Hjorge
 
 **Mi estado actual:**
 
@@ -7,7 +7,7 @@
 - 🌱 Actualmente estoy aprendiendo Kotlin
 - 📫 Cu: haroljorgelopez@gmail.com
 
-**Mi estado actual**
+## Languages and Tools
 
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -24,5 +24,13 @@
 Hjorge-l/Hjorge-l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Activity at Github:
+
+<p>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjorge-l&layout=compact&line_height=1&border_color=ffffff&line_height=2" />
+   
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hjorge-l&hide=contribs,issues&include_all_commits=true&theme=top-langs/?username=angelabenavente&layout=compact&show_icons=true&border_color=ffffff&custom_title=Stats&count_private=true&disable_animations=true" />
+</p>
+
 **Poco a poco iré subiendo todos los proyectos que tengo ya hechos y nuevos.
 Gracias ;D**
