@@ -1,4 +1,4 @@
-# 👋 H3ll0 W0RLD, I'm Hjorge
+# 👋 Hello world, I'm Hjorge
 
 **Mi estado actual:**
 
