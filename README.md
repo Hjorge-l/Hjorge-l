@@ -3,9 +3,9 @@
 ## Mi estado actual:
 
 
-### - 🎓 Software Developer junior.
-### - 🌱 Actualmente estoy aprendiendo Kotlin
-### - 📫 haroljorgelopez@gmail.com
+#### - 🎓 Software Developer junior.
+#### - 🌱 Actualmente estoy aprendiendo Kotlin
+#### - 📫 haroljorgelopez@gmail.com
 
 ## Languages and Tools:
 
