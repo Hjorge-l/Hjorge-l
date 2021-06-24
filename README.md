@@ -4,7 +4,7 @@
 
 
 #### - 🎓 Software Developer junior.
-#### - 🌱 Actualmente estoy aprendiendo Kotlin
+#### - 🌱 Actualmente aprendiendo Django y Kotlin
 #### - 📫 haroljorgelopez@gmail.com
 
 ## Languages and Tools:
