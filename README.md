@@ -24,11 +24,21 @@
 Hjorge-l/Hjorge-l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Activity at Github:
+## Mi Actividad en GitHub
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hjorge-l&hide=contribs,issues&include_all_commits=true&theme=top-langs/?username=angelabenavente&layout=compact&show_icons=true&border_color=ffffff&custom_title=Stats&count_private=true&disable_animations=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjorge-l&layout=compact&line_height=1&border_color=ffffff&line_height=2"/>
+¡Bienvenidos a mi perfil! Aquí encontrarás una mezcla de proyectos que he trabajado a lo largo de mi viaje como desarrollador. Desde soluciones backend con Django hasta aplicaciones móviles con Kotlin, mi portafolio está creciendo constantemente. ¡Echa un vistazo y mantente atento a las actualizaciones!
+
+## Actividad en GitHub
+
+Bienvenidos a mi perfil de GitHub. Aquí comparto mi viaje de aprendizaje y desarrollo con proyectos que van desde aplicaciones web hasta soluciones móviles. Estoy constantemente explorando nuevas tecnologías y colaborando en proyectos emocionantes. ¡Sigue mi progreso y veamos hasta dónde podemos llegar juntos!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hjorge-l&show_icons=true&theme=vue-dark&hide=issues&count_private=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=ffffff00&title_color=0078D4&text_color=333333&icon_color=0078D4" alt="Jorge's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjorge-l&layout=compact&theme=vue-dark&hide_border=true&bg_color=ffffff00&title_color=0078D4&text_color=333333" alt="Top Languages" />
 </p>
 
-## Poco a poco iré subiendo todos los proyectos que tengo ya hechos y nuevos ;D
+Continuaré actualizando mi portafolio con proyectos nuevos y existentes, así que estad atentos. ¡Cualquier comentario constructivo o oportunidad de colaboración es siempre bienvenida!
+
+
+Estoy comprometido a aprender y mejorar continuamente, así que te invito a seguir mi progreso y a colaborar en proyectos interesantes. ¡Cualquier feedback o contribución es bienvenida!
+
