@@ -1,11 +1,12 @@
-# 👋 Hello world, I'm Hjorge
+# 👋 Saludos, soy Harol Jorge López
 
-## Mi estado actual:
+## Sobre mí:
 
-
-#### - 🎓 Software Developer junior.
-#### - 🌱 Actualmente aprendiendo Django y Kotlin
-#### - 📫 haroljorgelopez@gmail.com
+#### - 🎓 Desarrollador de Back-end Junior especializado en Java, Python.
+#### - 🔍 Apasionado por la tecnología y siempre en busca de aprender más.
+#### - 🌱 Actualmente perfeccionando mis habilidades en (Ensamblador Easy68K y C)
+#### - 🌟 Objetivo: Contribuir a proyectos innovadores y resolver desafíos complejos.
+#### - 📫 Contáctame en: haroljorgelopez@gmail.com
 
 ## Languages and Tools:
 
