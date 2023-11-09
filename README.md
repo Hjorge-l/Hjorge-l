@@ -33,8 +33,8 @@ You can click the Preview link to take a look at your changes.
 Bienvenidos a mi perfil de GitHub. Aquí comparto mi viaje de aprendizaje y desarrollo con proyectos que van desde aplicaciones web hasta soluciones móviles. Estoy constantemente explorando nuevas tecnologías y colaborando en proyectos emocionantes. ¡Sigue mi progreso y veamos hasta dónde podemos llegar juntos!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hjorge-l&show_icons=true&theme=vue-dark&hide=issues&count_private=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=ffffff00&title_color=0078D4&text_color=333333&icon_color=0078D4" alt="Jorge's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjorge-l&layout=compact&theme=vue-dark&hide_border=true&bg_color=ffffff00&title_color=0078D4&text_color=333333" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hjorge-l&show_icons=true&theme=default&hide=issues&count_private=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=ffffff&title_color=0078D4&text_color=333333&icon_color=0078D4" alt="Jorge's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjorge-l&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D4&text_color=333333" alt="Top Languages" />
 </p>
 
 Continuaré actualizando mi portafolio con proyectos nuevos y existentes, así que estad atentos. ¡Cualquier comentario constructivo o oportunidad de colaboración es siempre bienvenida!
