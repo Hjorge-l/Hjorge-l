@@ -4,7 +4,7 @@
 
 #### - 🎓 Desarrollador de Back-end Junior especializado en Java, Python.
 #### - 🔍 Apasionado por la tecnología y siempre en busca de aprender más.
-#### - 🌱 Actualmente perfeccionando mis habilidades en (Ensamblador Easy68K y C)
+#### - 🌱 Actualmente perfeccionando mis habilidades en (C y Django)
 #### - 🌟 Objetivo: Contribuir a proyectos innovadores y resolver desafíos complejos.
 #### - 📫 Contáctame en: haroljorgelopez@gmail.com
 
