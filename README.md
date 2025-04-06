@@ -1,4 +1,4 @@
-# 👋 Saludos, soy Harol Jorge López y este es mi repositorio de La Uni
+# 👋 Hola, te presento mi repositorio de La Uni
 
 ## Sobre mí:
 
